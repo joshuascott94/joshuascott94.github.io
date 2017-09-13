@@ -1,3 +1,5 @@
-name: Joshua Scott, Security Dude
-markdown: kramdown
+title: Joshua Scott 
+description: Joshua Scott - Security Dude
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-hacker
