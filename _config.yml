@@ -15,7 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: Joshua Scott
 description: Thoughts from a Security Professional
-remote_theme: pmarsceill/just-the-docs
+#remote_theme: pmarsceill/just-the-docs
+remote_theme: kitian616/jekyll-TeXt-theme
 url: "https://joshuascott.net" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
