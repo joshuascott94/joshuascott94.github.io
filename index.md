@@ -1,5 +1,6 @@
 ---
-layout: default
+layout: landing
+title: Joshua Scott's Site
 ---
 
 * [My LinkedIn page](https://www.linkedin.com/in/joshuascott)
