@@ -1,5 +1,5 @@
 ---
-layout: landing
+layout: home
 title: Joshua Scott's Site
 ---
 
