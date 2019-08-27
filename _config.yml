@@ -1,5 +1,5 @@
-title: Joshua Scott 
+title: Joshua Scott
 description: Security Dude
 show_downloads: false
 google_analytics:
-theme: jekyll-theme-midnight
+remote_theme: pmarsceill/just-the-docs
