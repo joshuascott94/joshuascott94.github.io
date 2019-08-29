@@ -48,9 +48,11 @@
   {% endif %}
 
   {% if page.head-js %}
+    <!-- Begin JS includes -->
     {% for js in page.head-js %}
       <script src="{{ js | relative_url }}"></script>
     {% endfor %}
+    <!-- End JS includes -->
   {% endif %}
 
   {% if page.googlefonts %}
