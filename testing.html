@@ -5,17 +5,11 @@ title: Testing Page
 
 <div class="mermaid">
   graph LR
-      A --- B
-      B-->C[fa:fa-ban forbidden]
-      B-->D(fa:fa-spinner);
-</div>
-
-<div class="mermaid">
-  graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
+      A[Wake Up] --> B{Do I feel ok?}
+      B --> |No| C[Call in Sick]
+      B --> |Yes| D[Get Ready for Work]
+      D --> E[Drive to Work]
+      E --> F[Work]
 </div>
 
 
