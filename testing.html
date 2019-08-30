@@ -5,11 +5,13 @@ title: Testing Page
 
 <div class="mermaid">
   graph LR
-      A[Wake Up] --> B{Do I feel ok?}
-      B --> |No| C[Call in Sick]
-      B --> |Yes| D[Get Ready for Work]
-      D --> E[Drive to Work]
-      E --> F[Work]
+      A[Sleep] --> B[Wake Up]
+      B --> C{Do I feel ok?}
+      C --> |No| D[Call in Sick]
+      D --> A
+      C --> |Yes| E[Get Ready for Work]
+      E --> F[Drive to Work]
+      F --> G[Work]
 </div>
 
 
