@@ -5,13 +5,12 @@ title: Diagram Testing Page
 
 <div class="mermaid">
   graph LR
-      A[Sleep] --> B[Wake Up]
-      B --> C{Do I feel ok?}
-      C --> |No| D[Call in Sick]
-      D --> A
-      C --> |Yes| E[Get Ready for Work]
-      E --> F[Drive to Work]
-      F --> G[Work]
+      A[How smart am I?] --> B{Am I smart like Josh?}
+      B --> |No| C[Get Smarter]
+      B --> |Yes| D{Am I lying?}
+      C --> B
+      D --> |Yes| C
+      D --> |No| E(LIAR)
 </div>
 
 
