@@ -32,13 +32,13 @@ Key advisor for data security. Conceptualize, design, and implement modern secur
     15% false positive rate.
 
 ### Additional Experience
-Pre/Post Sales Engineer (Remote), Fox Technologies, Palo Alto, CA
-Senior Security Architect, Jacobs Engineering Group, Pasadena, CA
-Lead Information Specialist, WMC Mortgage Group, Woodland Hills, CA
-Technology Consultant/Manager, TechKnowledge Systems, LLC., Encino, CA
-Systems/Network Engineer, El Camino Resources, Ltd./ Real Application,Ltd., Woodland Hills, CA
+Pre/Post Sales Engineer (Remote), Fox Technologies, Palo Alto, CA  
+Senior Security Architect, Jacobs Engineering Group, Pasadena, CA  
+Lead Information Specialist, WMC Mortgage Group, Woodland Hills, CA  
+Technology Consultant/Manager, TechKnowledge Systems, LLC., Encino, CA  
+Systems/Network Engineer, El Camino Resources, Ltd./ Real Application,Ltd., Woodland Hills, CA  
 
 ### Education & Training
-Certified Information Systems Security Professional (CISSP)
-Certified Information Security Manager (CISM)
-Certified Chief Information Security Officer (CCISO)
+Certified Information Systems Security Professional (CISSP)  
+Certified Information Security Manager (CISM)  
+Certified Chief Information Security Officer (CCISO)  
