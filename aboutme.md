@@ -3,14 +3,12 @@ layout: page
 title: About Me
 ---
 # Joshua Scott, CISSP, CISM, CCISO
-joshua@joshuascott.net | Linkedin.com/in/joshuascott | 818-297-4908 | Agoura Hills, CA
 
 Experienced leader in cyber security proficient in security automation, application security, cloud security, security operations, risk management, compliance, and incident response. Expertise with regulatory frameworks such as PCI, CCPA, ISO, SOX, and NIST CSF. Excellent written and verbal communication and presentation abilities. Adept at researching current security threats to prioritize efforts to protect sensitive data. Strong collaboration, mentoring, project management, and team development skills.
 
 # Professional Experience
 
 ### Realtor.com (News Corp), Westlake Village, CA, 2007 – Present
-The nation’s leading real estate listing and marketing site.
 
 *Chief Information Security Officer (2017 – Present)*  
 *Director of Information Security (2015 – 2017)*  
