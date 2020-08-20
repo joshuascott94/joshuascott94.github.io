@@ -12,7 +12,6 @@ description: Ramblings of a CISO
 
 # List of links in the navigation bar
 navbar-links:
-  Blog: ""
   About Me: "aboutme"
 
 # Image to show in the navigation bar - image must be a square (width = height)
