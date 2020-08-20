@@ -3,6 +3,7 @@ layout: page
 title: About Me
 ---
 # Joshua Scott, CISSP, CISM, CCISO
+**[Download PDF version](https://joshuascott.net/content/jscott-resume-short.pdf)**
 
 Experienced leader in cyber security proficient in security automation, application security, cloud security, security operations, risk management, compliance, and incident response. Expertise with regulatory frameworks such as PCI, CCPA, ISO, SOX, and NIST CSF. Excellent written and verbal communication and presentation abilities. Adept at researching current security threats to prioritize efforts to protect sensitive data. Strong collaboration, mentoring, project management, and team development skills.
 
@@ -34,7 +35,7 @@ Pre/Post Sales Engineer (Remote), Fox Technologies, Palo Alto, CA
 Senior Security Architect, Jacobs Engineering Group, Pasadena, CA  
 Lead Information Specialist, WMC Mortgage Group, Woodland Hills, CA  
 Technology Consultant/Manager, TechKnowledge Systems, LLC., Encino, CA  
-Systems/Network Engineer, El Camino Resources, Ltd./ Real Application,Ltd., Woodland Hills, CA  
+Systems/Network Engineer, El Camino Resources, Ltd./ Real Application, Ltd., Woodland Hills, CA  
 
 ### Education & Training
 Certified Information Systems Security Professional (CISSP)  
