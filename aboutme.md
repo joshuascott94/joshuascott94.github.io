@@ -3,13 +3,18 @@ layout: page
 title: About Me
 ---
 # Joshua Scott, CISSP, CISM, CCISO
-**[Download PDF version](https://joshuascott.net/content/jscott-resume-short.pdf)**
 
 Experienced leader in cyber security proficient in security automation, application security, cloud security, security operations, risk management, compliance, and incident response. Expertise with regulatory frameworks such as PCI, CCPA, ISO, SOX, and NIST CSF. Excellent written and verbal communication and presentation abilities. Adept at researching current security threats to prioritize efforts to protect sensitive data. Strong collaboration, mentoring, project management, and team development skills.
 
 # Professional Experience
 
-### Realtor.com (News Corp), Westlake Village, CA, 2007 – Present
+### Postman, October 2020 - Present
+
+*Head of Information Security & IT
+
+Cybersecurity is essential to what we do at Postman. Postman’s security team is responsible for cybersecurity across the entire organization, from employees to partners to customers. We help Postman design, build, deploy, and maintain secure software to ensure we're protecting every customer’s data and their investment in our products. We also focus on raising security awareness within the company, providing security intelligence and building tools to enable all “Postmanauts” (i.e., everyone who works at Postman) to feel a shared sense of responsibility for security and privacy concerns. Finally, we aim to constantly improve the security posture of our organization by iterating on our tooling and process.
+
+### Realtor.com (News Corp), Westlake Village, CA, 2007 – 2020
 
 *Chief Information Security Officer (2017 – Present)*  
 *Director of Information Security (2015 – 2017)*  
