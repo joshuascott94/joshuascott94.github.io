@@ -2,7 +2,7 @@
 layout: page
 title: About Me
 ---
-# Joshua Scott, CISSP, CISM, CCISO
+# Joshua Scott
 
 Experienced leader in cyber security proficient in security automation, application security, cloud security, security operations, risk management, compliance, and incident response. Expertise with regulatory frameworks such as PCI, CCPA, ISO, SOX, and NIST CSF. Excellent written and verbal communication and presentation abilities. Adept at researching current security threats to prioritize efforts to protect sensitive data. Strong collaboration, mentoring, project management, and team development skills.
 
@@ -45,4 +45,3 @@ Systems/Network Engineer, El Camino Resources, Ltd./ Real Application, Ltd., Woo
 ### Education & Training
 Certified Information Systems Security Professional (CISSP)  
 Certified Information Security Manager (CISM)  
-Certified Chief Information Security Officer (CCISO)  
