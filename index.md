@@ -12,3 +12,4 @@ title: Joshua Scott
 * [CISO Series - Cyber Security Headlines in Review - January 18-22, 2021](https://cisoseries.com/cyber-security-headlines-week-in-review-january-18-22-2021/)
 * [The Tech Trek Podcast](https://anchor.fm/thetechtrek/episodes/Finding-a-small-pilot-project-to-start-shifting-security-left-and-becoming-more-of-an-engineering-based-security-team-with-CISO-Josh-Scott-eljjks)
 * [7 Cyber Pros Share Their Top Problems](https://www.boardish.io/7-cyber-pros-share-their-top-problems-with-the-cyber-budget-approval-process/)
+* [Fireside Chat with David Raviv](https://www.youtube.com/watch?v=uWHAMmd5PGE)
