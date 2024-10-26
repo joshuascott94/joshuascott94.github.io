@@ -4,15 +4,17 @@ title: About Me
 ---
 # Joshua Scott
 
-Experienced leader in cyber security proficient in security automation, application security, cloud security, security operations, risk management, compliance, and incident response. Expertise with regulatory frameworks such as PCI, CCPA, ISO, SOX, and NIST CSF. Excellent written and verbal communication and presentation abilities. Adept at researching current security threats to prioritize efforts to protect sensitive data. Strong collaboration, mentoring, project management, and team development skills.
+Innovative and experienced leader with nearly 30 years of success across all facets of information security, specializing in security engineering, efficient technology implementation, and modern program methodologies. A pragmatic and collaborative team player, focused on delivering value-driven cybersecurity solutions that seamlessly enable business objectives. Committed to transparency, accountability, and building high-performing teams while staying ahead of industry trends and technological advancements. Technically adept, with strong coding skills and deep expertise in development practices and modern software architectures.
 
 # Professional Experience
 
-### Postman, October 2020 - Present
+### Postman, October 2020 - August 2024
 
 *Head of Information Security & IT
 
-Cybersecurity is essential to what we do at Postman. Postman’s security team is responsible for cybersecurity across the entire organization, from employees to partners to customers. We help Postman design, build, deploy, and maintain secure software to ensure we're protecting every customer’s data and their investment in our products. We also focus on raising security awareness within the company, providing security intelligence and building tools to enable all “Postmanauts” (i.e., everyone who works at Postman) to feel a shared sense of responsibility for security and privacy concerns. Finally, we aim to constantly improve the security posture of our organization by iterating on our tooling and process.
+Led a nearly 40-person Information Security and IT organization at a prominent SaaS software/API development platform startup, this senior leadership role reported directly to the CTO/Cofounder. The position encompassed comprehensive oversight of Security Operations, Governance, Risk and Compliance, Product Security, Cloud Security, Identity & Access Management, and IT Infrastructure, successfully scaling the team from 13 to nearly 40 members while maintaining exceptional performance and below-average attrition rates.
+
+Notable achievements included implementing a comprehensive security strategy aligned with business objectives, successful completion of multiple SOC 2 audits, and the establishment of a dedicated product security unit. The role drove strategic initiatives for HIPAA compliance, ISO certification planning, and modern security infrastructure deployment. Leadership extended to direct customer engagement, supporting product sales through security expertise and trust-building. Additional accomplishments included revolutionizing corporate IT operations through improved service desk functions and streamlined procurement processes, resulting in enhanced operational efficiency and optimized costs.
 
 ### Realtor.com (News Corp), Westlake Village, CA, 2007 – 2020
 
@@ -35,6 +37,16 @@ Key advisor for data security. Conceptualize, design, and implement modern secur
     thousands of vulnerabilities and automate remediation, with only a
     15% false positive rate.
 
+### Skills
+Security Programs: Enterprise Security, Security Engineering, Security Governance & Assurance, Security Operations, Data Security & Governance, Data Privacy, Security Architecture, Cloud and SaaS Security, Application/Product Security, DevOps/DevSecOps, Threat and Vulnerability Management, Detection Engineering and Response, Incident Management, Field Security/Security Sales Enablement, GRC, Policy Development, Risk Management, Identity & Access Management, Security M&A Due Diligence
+
+Compliance: NIST CSF, ISO 27001, SOC2 (Type I/Type II), CIS, GDPR, CCPA/CPRA, HIPAA, Sarbanes-Oxley (SOX), PCI
+
+Technology: On prem, hybrid, multi-cloud, cloud native | SaaS, PaaS, IaaS | AWS, Azure | Linux, Mac OS, Windows | Firewalls, CSPM, CNAPP, SIEM, SOAR, EDR, DLP, ZTNA, CASB, PAM, Generative AI
+
+IT Programs: IT Service Desk, Desktop Support, Systems Administration, IT Procurement, Identity & Access Management, Identity Governance, IT Governance
+
+
 ### Additional Experience
 Pre/Post Sales Engineer (Remote), Fox Technologies, Palo Alto, CA  
 Senior Security Architect, Jacobs Engineering Group, Pasadena, CA  
@@ -44,4 +56,5 @@ Systems/Network Engineer, El Camino Resources, Ltd./ Real Application, Ltd., Woo
 
 ### Education & Training
 Certified Information Systems Security Professional (CISSP)  
-Certified Information Security Manager (CISM)  
+Certified Information Security Manager (CISM)
+Cerfified Chief Information Security Officer (CCISO)
