@@ -42,7 +42,7 @@ Security Programs: Enterprise Security, Security Engineering, Security Governanc
 
 Compliance: NIST CSF, ISO 27001, SOC2 (Type I/Type II), CIS, GDPR, CCPA/CPRA, HIPAA, Sarbanes-Oxley (SOX), PCI
 
-Technology: On prem, hybrid, multi-cloud, cloud native || SaaS, PaaS, IaaS || AWS, Azure || Linux, Mac OS, Windows || Firewalls, CSPM, CNAPP, SIEM, SOAR, EDR, DLP, ZTNA, CASB, PAM, Generative AI
+Technology: On prem, hybrid, multi-cloud, cloud native \| SaaS, PaaS, IaaS \| AWS, Azure \| Linux, Mac OS, Windows \| Firewalls, CSPM, CNAPP, SIEM, SOAR, EDR, DLP, ZTNA, CASB, PAM, Generative AI
 
 IT Programs: IT Service Desk, Desktop Support, Systems Administration, IT Procurement, Identity & Access Management, Identity Governance, IT Governance
 
