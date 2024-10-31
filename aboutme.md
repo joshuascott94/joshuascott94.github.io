@@ -10,7 +10,7 @@ Innovative and experienced leader with nearly 30 years of success across all fac
 
 ### Postman, October 2020 - August 2024
 
-*Head of Information Security & IT
+*Head of Information Security & IT*
 
 Led a nearly 40-person Information Security and IT organization at a prominent SaaS software/API development platform startup, this senior leadership role reported directly to the CTO/Cofounder. The position encompassed comprehensive oversight of Security Operations, Governance, Risk and Compliance, Product Security, Cloud Security, Identity & Access Management, and IT Infrastructure, successfully scaling the team from 13 to nearly 40 members while maintaining exceptional performance and below-average attrition rates.
 
@@ -18,7 +18,7 @@ Notable achievements included implementing a comprehensive security strategy ali
 
 ### Realtor.com (News Corp), Westlake Village, CA, 2007 – 2020
 
-*Chief Information Security Officer (2017 – Present)*  
+*Chief Information Security Officer (2017 – 2020)*  
 *Director of Information Security (2015 – 2017)*  
 *Manager of Information Security (2012 – 2015)*  
 *Principal Security Engineer, Security Architect (2007 – 2012)*  
