@@ -38,13 +38,13 @@ Key advisor for data security. Conceptualize, design, and implement modern secur
     15% false positive rate.
 
 ### Skills
-Security Programs: Enterprise Security, Security Engineering, Security Governance & Assurance, Security Operations, Data Security & Governance, Data Privacy, Security Architecture, Cloud and SaaS Security, Application/Product Security, DevOps/DevSecOps, Threat and Vulnerability Management, Detection Engineering and Response, Incident Management, Field Security/Security Sales Enablement, GRC, Policy Development, Risk Management, Identity & Access Management, Security M&A Due Diligence
+*Security Programs:* Enterprise Security, Security Engineering, Security Governance & Assurance, Security Operations, Data Security & Governance, Data Privacy, Security Architecture, Cloud and SaaS Security, Application/Product Security, DevOps/DevSecOps, Threat and Vulnerability Management, Detection Engineering and Response, Incident Management, Field Security/Security Sales Enablement, GRC, Policy Development, Risk Management, Identity & Access Management, Security M&A Due Diligence
 
-Compliance: NIST CSF, ISO 27001, SOC2 (Type I/Type II), CIS, GDPR, CCPA/CPRA, HIPAA, Sarbanes-Oxley (SOX), PCI
+*Compliance:* NIST CSF, ISO 27001, SOC2 (Type I/Type II), CIS, GDPR, CCPA/CPRA, HIPAA, Sarbanes-Oxley (SOX), PCI
 
-Technology: On prem, hybrid, multi-cloud, cloud native \| SaaS, PaaS, IaaS \| AWS, Azure \| Linux, Mac OS, Windows \| Firewalls, CSPM, CNAPP, SIEM, SOAR, EDR, DLP, ZTNA, CASB, PAM, Generative AI
+*Technology:* On prem, hybrid, multi-cloud, cloud native \| SaaS, PaaS, IaaS \| AWS, Azure \| Linux, Mac OS, Windows \| Firewalls, CSPM, CNAPP, SIEM, SOAR, EDR, DLP, ZTNA, CASB, PAM, Generative AI
 
-IT Programs: IT Service Desk, Desktop Support, Systems Administration, IT Procurement, Identity & Access Management, Identity Governance, IT Governance
+*IT Programs:* IT Service Desk, Desktop Support, Systems Administration, IT Procurement, Identity & Access Management, Identity Governance, IT Governance
 
 
 ### Additional Experience
