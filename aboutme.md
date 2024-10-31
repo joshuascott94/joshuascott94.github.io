@@ -55,6 +55,6 @@ Technology Consultant/Manager, TechKnowledge Systems, LLC., Encino, CA
 Systems/Network Engineer, El Camino Resources, Ltd./ Real Application, Ltd., Woodland Hills, CA  
 
 ### Education & Training
-Certified Information Systems Security Professional (CISSP)
-Certified Information Security Manager (CISM)
-Cerfified Chief Information Security Officer (CCISO)
+Certified Information Systems Security Professional (CISSP)  
+Certified Information Security Manager (CISM)  
+Cerfified Chief Information Security Officer (CCISO)  
