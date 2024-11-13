@@ -19,3 +19,4 @@ title: Joshua Scott
 * [Managing the Security Program & Speaking the Language of the Business](https://www.businessofcyber.com/listen/boc-32-managing-the-security-program-amp-speaking-the-language-of-the-business-with-joshua-scott-ciso-at-postman)
 * [Rolling with Change as API has its Moment, with Joshua Scott, Head of IT and Security for Postman](https://www.youtube.com/watch?app=desktop&v=ZgKK6sl5G6Q)
 * [Postman’s new SOC 2 Type 2 report: how (and why) we did it](https://blog.postman.com/postmans-new-soc-2-type-2-report-how-and-why-we-did-it/)
+* [CISO Series Podcast - live in Santa Monica](https://cisoseries.com/a-ceos-guide-to-ignoring-your-security-program-live-in-santa-monica/)
