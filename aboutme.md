@@ -3,6 +3,7 @@ layout: page
 title: About Me
 ---
 # Joshua Scott
+[Download Resume](/content/jscott-resume-2024.pdf)
 
 Innovative and experienced leader with nearly 30 years of success across all facets of information security, specializing in security engineering, efficient technology implementation, and modern program methodologies. A pragmatic and collaborative team player, focused on delivering value-driven cybersecurity solutions that seamlessly enable business objectives. Committed to transparency, accountability, and building high-performing teams while staying ahead of industry trends and technological advancements. Technically adept, with strong coding skills and deep expertise in development practices and modern software architectures.
 
