@@ -1,0 +1,53 @@
+[
+  {
+    "years": "2025 – Present",
+    "org": "Hydrolix",
+    "place": "Streaming data lake platform",
+    "role": "Chief Information Security Officer & VP of Security",
+    "summary": "Leading security for a high-scale streaming data lake platform, owning the security function end to end, from strategy and architecture through day-to-day operations, along with IT. Accountable for the program as both its executive sponsor and its hands-on builder.",
+    "highlights": []
+  },
+  {
+    "years": "2020 – 2024",
+    "org": "Postman",
+    "place": "SaaS / API Platform",
+    "role": "Head of Information Security & IT",
+    "summary": "Led a ~40-person Information Security and IT organization at a prominent API development platform, reporting directly to the CTO/Cofounder. Owned Security Operations, GRC, Product Security, Cloud Security, Identity & Access Management, and IT Infrastructure, scaling the team from 13 to nearly 40 while keeping attrition below average.",
+    "highlights": [
+      "Built a security strategy tied directly to business objectives and completed multiple SOC 2 audits.",
+      "Stood up a dedicated product security unit and drove HIPAA compliance and ISO certification planning.",
+      "Supported product sales directly through security expertise and customer trust-building.",
+      "Modernized corporate IT across the service desk and procurement for better efficiency and lower cost."
+    ]
+  },
+  {
+    "years": "2007 – 2020",
+    "org": "Realtor.com",
+    "place": "News Corp · Westlake Village, CA",
+    "roles": [
+      { "title": "Chief Information Security Officer", "years": "2017–2020" },
+      { "title": "Director of Information Security", "years": "2015–2017" },
+      { "title": "Manager of Information Security", "years": "2012–2015" },
+      { "title": "Principal Security Engineer / Architect", "years": "2007–2012" }
+    ],
+    "summary": "Founding member of the Realtor.com Information Security team. Conceptualized, designed, and implemented modern security programs enterprise-wide, spanning security engineering, product security, intelligence and response, risk management, and governance. I built the teams to run them.",
+    "highlights": [
+      "Grew and led a 10-person InfoSec team with only one departure in eight years.",
+      "Directed an AWS security architecture that let engineering hit velocity targets without sacrificing security.",
+      "Built a security tooling ecosystem processing thousands of vulnerabilities with automated remediation and a 15% false-positive rate."
+    ]
+  },
+  {
+    "years": "Earlier",
+    "org": "The long way up",
+    "place": "From IC to the C-suite",
+    "summary": "Before leading security organizations, I built the foundation the long way, starting on a help desk at an IBM reseller and working up through systems and network engineering, then into sales engineering, architecture, and consulting. I've worked across scrappy startups, global enterprises, and everything in between, which is exactly why I see security as an engineering problem and a business problem at the same time.",
+    "roles_grid": [
+      { "role": "Pre / Post-Sales Engineer", "org": "Fox Technologies · Palo Alto", "context": "Sales engineering · Vendor" },
+      { "role": "Senior Security Architect", "org": "Jacobs Engineering Group · Pasadena", "context": "Global enterprise" },
+      { "role": "Lead Information Specialist", "org": "WMC Mortgage Group · Woodland Hills", "context": "Financial services" },
+      { "role": "Technology Consultant / Manager", "org": "TechKnowledge Systems · Encino", "context": "Consulting" },
+      { "role": "Help Desk → Network & Systems Engineer", "org": "El Camino Resources / Real Applications · Woodland Hills", "context": "Where I started · IBM reseller" }
+    ]
+  }
+]

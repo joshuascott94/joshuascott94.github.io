@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="charcoal" data-accent="blue" data-headline="sans">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>About · Joshua Scott</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Schibsted+Grotesk:wght@400;500;600;700;800&family=IBM+Plex+Mono:wght@400;500;600&family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="styles.css" />
+<!-- Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-94MXPMSDWW"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-94MXPMSDWW');
+</script>
+</head>
+<body>
+
+<!-- ===================== NAV ===================== -->
+<header class="nav" id="nav">
+  <div class="nav__in">
+    <a class="brand" href="index.html">
+      <span class="mark">JS</span>
+      <span>JOSHUA<b>SCOTT</b></span>
+    </a>
+    <nav class="nav__links">
+      <a href="index.html">Home</a>
+      <a href="#experience">Experience</a>
+      <a href="index.html#media">Media</a>
+      <a href="index.html#contact" class="nav__cta">Get in touch</a>
+    </nav>
+  </div>
+</header>
+
+<main id="top">
+
+<!-- ===================== HEADER ===================== -->
+<section class="hero wrap">
+  <div class="hero__grid">
+    <div class="hero__copy">
+      <div class="hero__eyebrow eyebrow reveal">About Joshua Scott</div>
+      <h1 class="reveal" style="font-size:clamp(38px,5.6vw,68px);">Pragmatic security,<br /><span class="thin">built for the business.</span></h1>
+      <p class="hero__lead reveal">Security leader with <b>nearly 30 years</b> across every facet of information security, now <b>Chief Information Security Officer &amp; VP of Security at Hydrolix</b>.</p>
+      <div class="hero__actions reveal">
+        <a href="index.html" class="btn btn--ghost">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M19 12H5M11 18l-6-6 6-6" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          Back to home
+        </a>
+      </div>
+    </div>
+    <div class="portrait reveal">
+      <div class="portrait__deco"></div>
+      <div class="portrait__frame">
+        <img src="assets/headshot.jpg" alt="Portrait of Joshua Scott" />
+        <div class="portrait__tint"></div>
+        <div class="portrait__shade"></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ===================== ABOUT ===================== -->
+<section class="block wrap" id="about">
+  <div class="block__head">
+    <div class="block__title">
+      <span class="section-num">01 · Background</span>
+      <h2>The story so far.</h2>
+    </div>
+  </div>
+  <div class="about__grid">
+    <div class="about__body">
+      <p class="drop">An innovative and experienced leader with nearly three decades of success across <b>every facet of information security</b>, from security engineering and architecture to governance, risk, and modern program methodology.</p>
+      <p>I'm a pragmatic, collaborative team player focused on delivering value-driven cybersecurity that seamlessly enables business objectives, not one that stands in their way. I'm committed to transparency, accountability, and building high-performing teams while staying ahead of where the industry is headed.</p>
+      <p>I'm also technically hands-on, with strong coding skills and deep expertise in modern development practices and software architecture, which keeps security close to how products actually get built.</p>
+    </div>
+    <aside class="glance reveal">
+      <div class="glance__label eyebrow">At a glance</div>
+      <dl class="glance__list">
+        <div class="glance__row">
+          <dt>Experience</dt>
+          <dd>Nearly 30 years in information security</dd>
+        </div>
+        <div class="glance__row">
+          <dt>Focus</dt>
+          <dd>Security leadership, engineering &amp; GRC</dd>
+        </div>
+        <div class="glance__row">
+          <dt>Led security at</dt>
+          <dd>Hydrolix · Postman · Realtor.com</dd>
+        </div>
+        <div class="glance__row">
+          <dt>Based in</dt>
+          <dd>Greater Los Angeles, CA</dd>
+        </div>
+      </dl>
+    </aside>
+  </div>
+</section>
+
+<!-- ===================== EXPERIENCE ===================== -->
+<section class="block wrap" id="experience">
+  <div class="block__head">
+    <div class="block__title">
+      <span class="section-num">02 · Experience</span>
+      <h2>Where I've led.</h2>
+    </div>
+  </div>
+
+  <div class="xp" id="xpList">
+    <!-- Rendered from experience.json -->
+  </div>
+</section>
+
+<!-- ===================== CTA ===================== -->
+<section class="block wrap">
+  <div class="about-cta">
+    <div>
+      <h2 style="font-size:clamp(24px,3vw,34px);">Want the highlights instead?</h2>
+      <p style="color:var(--ink-2);margin-top:10px;max-width:46ch;">Head back to the home page for my media appearances, current projects, and the quickest ways to reach me.</p>
+    </div>
+    <a href="index.html" class="btn btn--primary">
+      Back to home
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6" stroke-linecap="round" stroke-linejoin="round"/></svg>
+    </a>
+  </div>
+</section>
+
+</main>
+
+<!-- ===================== FOOTER ===================== -->
+<footer class="foot">
+  <div class="wrap foot__in">
+    <span class="c">© <span id="year"></span> Joshua Scott</span>
+    <span class="c">Information Security Executive</span>
+  </div>
+</footer>
+
+<script src="site.js"></script>
+</body>
+</html>

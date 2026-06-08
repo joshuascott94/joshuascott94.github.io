@@ -1,0 +1,86 @@
+[
+  {
+    "type": "podcast",
+    "title": "Simplifying Security & Making It a Business Driver",
+    "outlet": "ITSP Magazine",
+    "url": "https://itspmagazine.simplecast.com/episodes/simplifying-security-and-making-it-a-business-driver-with-joshua-scott"
+  },
+  {
+    "type": "podcast",
+    "title": "How Security Protects APIs & Builds Customer Trust",
+    "outlet": "Team Cymru",
+    "url": "https://www.team-cymru.com/podcast/postman's-joshua-scott-on-how-security-protects-apis-and-builds-customer-trust"
+  },
+  {
+    "type": "article",
+    "title": "Member Spotlight: Joshua Scott, CISO",
+    "outlet": "Cyber Security Hub",
+    "url": "https://www.cshub.com/interviews/articles/member-spotlight-joshua-scott-ciso-realtorcom"
+  },
+  {
+    "type": "podcast",
+    "title": "I Want To, But I Just Can't Trust Your Single Pane of Glass",
+    "outlet": "CISO Series",
+    "url": "https://cisoseries.com/i-want-to-but-i-just-cant-trust-your-single-pane-of-glass/"
+  },
+  {
+    "type": "podcast",
+    "title": "Rolling with Change as API Has Its Moment",
+    "outlet": "IT Visionaries · Mission.org",
+    "url": "https://mission.org/it-visionaries/rolling-with-change-as-api-has-its-moment-with-joshua-scott-head-of-it-and-security-for-postman/"
+  },
+  {
+    "type": "podcast",
+    "title": "Managing the Security Program & Speaking the Language of the Business",
+    "outlet": "Business of Cyber",
+    "url": "https://www.businessofcyber.com/listen/boc-32-managing-the-security-program-amp-speaking-the-language-of-the-business-with-joshua-scott-ciso-at-postman"
+  },
+  {
+    "type": "article",
+    "title": "Broaden the Candidate Pipeline to Ease the Worker Shortage",
+    "outlet": "Dark Reading",
+    "url": "https://www.darkreading.com/cybersecurity-careers/to-ease-the-cybersecurity-worker-shortage-broaden-the-candidate-pipeline"
+  },
+  {
+    "type": "article",
+    "title": "Postman's New SOC 2 Type 2 Report: How (and Why) We Did It",
+    "outlet": "Postman Blog",
+    "url": "https://blog.postman.com/postmans-new-soc-2-type-2-report-how-and-why-we-did-it/"
+  },
+  {
+    "type": "podcast",
+    "title": "Shifting Security Left & Building an Engineering-Based Team",
+    "outlet": "The Tech Trek",
+    "url": "https://anchor.fm/thetechtrek/episodes/Finding-a-small-pilot-project-to-start-shifting-security-left-and-becoming-more-of-an-engineering-based-security-team-with-CISO-Josh-Scott-eljjks"
+  },
+  {
+    "type": "podcast",
+    "title": "Cyber Security Headlines: Week in Review",
+    "outlet": "CISO Series",
+    "url": "https://cisoseries.com/cyber-security-headlines-week-in-review-january-18-22-2021/"
+  },
+  {
+    "type": "article",
+    "title": "7 Cyber Pros Share Their Top Problems",
+    "outlet": "Boardish",
+    "url": "https://www.boardish.io/7-cyber-pros-share-their-top-problems-with-the-cyber-budget-approval-process/"
+  },
+  {
+    "type": "podcast",
+    "title": "A CEO's Guide to Ignoring Your Security Program: Live in Santa Monica",
+    "outlet": "CISO Series",
+    "url": "https://cisoseries.com/a-ceos-guide-to-ignoring-your-security-program-live-in-santa-monica/"
+  },
+  {
+    "type": "video",
+    "title": "Rolling with Change as API Has Its Moment",
+    "outlet": "YouTube",
+    "url": "https://www.youtube.com/watch?app=desktop&v=ZgKK6sl5G6Q"
+  },
+  {
+    "type": "video",
+    "title": "Fireside Chat with David Raviv",
+    "outlet": "YouTube",
+    "url": "https://www.youtube.com/watch?v=uWHAMmd5PGE"
+  }
+]

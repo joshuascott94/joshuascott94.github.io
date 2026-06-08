@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="charcoal" data-accent="blue" data-headline="sans">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Joshua Scott · Security Executive</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Schibsted+Grotesk:wght@400;500;600;700;800&family=IBM+Plex+Mono:wght@400;500;600&family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="styles.css" />
+<!-- Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-94MXPMSDWW"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-94MXPMSDWW');
+</script>
+</head>
+<body>
+
+<!-- ===================== NAV ===================== -->
+<header class="nav" id="nav">
+  <div class="nav__in">
+    <a class="brand" href="#top">
+      <span class="mark">JS</span>
+      <span>JOSHUA<b>SCOTT</b></span>
+    </a>
+    <nav class="nav__links">
+      <a href="about.html">About</a>
+      <a href="#projects">Projects</a>
+      <a href="#media">Media</a>
+      <a href="#contact" class="nav__cta">Get in touch</a>
+    </nav>
+  </div>
+</header>
+
+<main id="top">
+
+<!-- ===================== HERO ===================== -->
+<section class="hero wrap">
+  <div class="hero__grid">
+    <div class="hero__copy">
+      <div class="hero__eyebrow eyebrow reveal">Information Security Executive</div>
+      <h1 class="reveal">Joshua<br /><span class="thin">Scott</span></h1>
+      <p class="hero__lead reveal">Security leader with <b>nearly 30 years</b> building programs that protect the business while getting out of its way, now <b>Chief Information Security Officer &amp; VP of Security at Hydrolix</b>.</p>
+      <div class="hero__actions reveal">
+        <a href="about.html" class="btn btn--primary">
+          Read my background
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        </a>
+        <a href="#contact" class="btn btn--ghost">Get in touch</a>
+      </div>
+    </div>
+    <div class="portrait reveal">
+      <div class="portrait__deco"></div>
+      <div class="portrait__frame">
+        <img src="assets/headshot.jpg" alt="Portrait of Joshua Scott" />
+        <div class="portrait__tint"></div>
+        <div class="portrait__shade"></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ===================== PROJECTS ===================== -->
+<section class="block wrap" id="projects">
+  <div class="block__head">
+    <div class="block__title">
+      <span class="section-num">01 · Projects</span>
+      <h2>What I'm building.</h2>
+      <p class="lead">Side projects, writing, and other places I spend my time outside the day job.</p>
+    </div>
+  </div>
+  <div class="projects-list" id="projectsList">
+    <!-- Rendered from projects.json -->
+  </div>
+</section>
+
+<!-- ===================== MEDIA ===================== -->
+<section class="block wrap" id="media">
+  <div class="block__head">
+    <div class="block__title">
+      <span class="section-num">02 · Media &amp; Speaking</span>
+      <h2>Selected appearances.</h2>
+    </div>
+    <div class="media__filters" id="mediaFilters">
+      <button class="chip active" data-filter="all">All</button>
+      <button class="chip" data-filter="podcast">Podcasts</button>
+      <button class="chip" data-filter="article">Articles</button>
+      <button class="chip" data-filter="video">Video</button>
+    </div>
+  </div>
+
+  <div class="media-grid" id="mediaGrid">
+    <!-- Rendered from media.json -->
+  </div>
+</section>
+
+<!-- ===================== CONTACT ===================== -->
+<section class="block wrap contact" id="contact">
+  <div class="block__head">
+    <div class="block__title">
+      <span class="section-num">03 · Contact</span>
+      <h2>Let's connect.</h2>
+      <p class="lead">The best ways to reach me. I'm always happy to talk security leadership, program building, or the occasional podcast.</p>
+    </div>
+  </div>
+  <div class="contact__grid">
+    <a class="contact-card reveal" href="https://linkedin.com/in/joshuascott" target="_blank" rel="noopener">
+      <span class="ic"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M4.98 3.5A2.5 2.5 0 1 1 0 3.5a2.5 2.5 0 0 1 4.98 0zM0 8h5v16H0V8zm7.5 0h4.78v2.2h.07c.67-1.2 2.3-2.46 4.73-2.46C22.4 7.74 24 10 24 14.1V24h-5v-8.7c0-2.08-.04-4.75-2.9-4.75-2.9 0-3.35 2.26-3.35 4.6V24h-5V8z"/></svg></span>
+      <div><div class="k">LinkedIn</div><div class="v">in/joshuascott</div></div>
+      <span class="arrow"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2"><path d="M7 17L17 7M17 7H8M17 7v9" stroke-linecap="round" stroke-linejoin="round"/></svg></span>
+    </a>
+    <a class="contact-card reveal" href="https://github.com/joshuascott94" target="_blank" rel="noopener">
+      <span class="ic"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 .5C5.7.5.5 5.7.5 12c0 5.1 3.3 9.4 7.9 10.9.6.1.8-.3.8-.6v-2c-3.2.7-3.9-1.5-3.9-1.5-.5-1.3-1.3-1.7-1.3-1.7-1.1-.7.1-.7.1-.7 1.2.1 1.8 1.2 1.8 1.2 1 1.8 2.7 1.3 3.4 1 .1-.8.4-1.3.7-1.6-2.6-.3-5.3-1.3-5.3-5.7 0-1.3.5-2.3 1.2-3.1-.1-.3-.5-1.5.1-3.1 0 0 1-.3 3.3 1.2a11.5 11.5 0 0 1 6 0C17.3 4.8 18.3 5.1 18.3 5.1c.6 1.6.2 2.8.1 3.1.8.8 1.2 1.8 1.2 3.1 0 4.4-2.7 5.4-5.3 5.7.4.4.8 1.1.8 2.2v3.3c0 .3.2.7.8.6 4.6-1.5 7.9-5.8 7.9-10.9C23.5 5.7 18.3.5 12 .5z"/></svg></span>
+      <div><div class="k">GitHub</div><div class="v">joshuascott94</div></div>
+      <span class="arrow"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2"><path d="M7 17L17 7M17 7H8M17 7v9" stroke-linecap="round" stroke-linejoin="round"/></svg></span>
+    </a>
+    <a class="contact-card reveal" href="mailto:contactme@joshuascott.net">
+      <span class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="2.5" y="4.5" width="19" height="15" rx="2.5"/><path d="M3 7l9 6 9-6" stroke-linecap="round" stroke-linejoin="round"/></svg></span>
+      <div><div class="k">Email</div><div class="v">contactme@joshuascott.net</div></div>
+      <span class="arrow"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2"><path d="M7 17L17 7M17 7H8M17 7v9" stroke-linecap="round" stroke-linejoin="round"/></svg></span>
+    </a>
+  </div>
+</section>
+
+</main>
+
+<!-- ===================== FOOTER ===================== -->
+<footer class="foot">
+  <div class="wrap foot__in">
+    <span class="c">© <span id="year"></span> Joshua Scott</span>
+    <span class="c"><a href="about.html">About</a></span>
+  </div>
+</footer>
+
+<script src="site.js"></script>
+</body>
+</html>
